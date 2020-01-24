@@ -1,4 +1,3 @@
-  
 FROM hashicorp/packer:1.4.3
 MAINTAINER "OSO DevOps <enquires@osodevops.io>"
 
